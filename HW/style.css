@@ -1,0 +1,207 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+p {
+	font-family: 'Lato', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+.container {
+	max-width: 1140px;
+    margin: 0 auto;
+    display: flex;   
+}
+
+.flex {
+	flex-direction: column;
+}
+
+
+.header {
+	height: 75px;
+	background-color: #222222;
+}
+
+
+.logo {
+	
+	margin-top: 18px;
+}
+
+
+.magnifier {
+	margin-left: 41px;
+	margin-top: 28px;
+}
+
+
+.menu {
+	margin-left: 859px;
+    margin-top: 30px;
+}
+
+
+.account {
+	margin-left: 33px;
+	margin-top: 26px;
+}
+
+.basket {
+	margin-left: 33px;
+	margin-top: 26px;
+}
+
+
+.preview {
+	background-color: #F1E4E6;
+}
+
+
+.mainman {
+	margin-left: -225px;
+    margin-right: 64px;
+}
+
+
+.thebrand{
+	color: #222222;
+	display: inline;  
+    align-items: center;
+    margin-top: 290px;
+    border-left: 12px solid #F16D7F;
+    padding-left: 12px;
+    height: 73px;
+}
+
+.brand {
+	font-size: 48px;
+	line-height: 38px;
+}
+
+
+.olf, .fashion {
+	font-size: 32px;
+
+}
+
+
+
+h1 {
+	font-family: 'Lato', sans-serif;
+	size: 48px;
+	line-height: 58px;
+	font-weight: 900;
+	margin-left: 16px;
+	margin-top: 290px;
+}
+
+
+h2 {
+	font-family: 'Lato', sans-serif;
+	size: 32px;
+	line-height: 3.5px;
+	font-weight: 700;
+	margin-left: 16px;
+}
+
+
+.olf {
+	margin-left: 0;
+}
+
+
+.fashion {
+	color: #F16D7F;
+}
+
+
+.cardbox {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 65px;
+}
+
+
+.card {
+	position: relative;	
+}
+
+
+.forwomen {
+	position: absolute;
+	text-align: center;
+	top: 107px;
+	left: 104px;
+}
+
+
+.formen {
+	position: absolute;
+	text-align: center;
+	top: 107px;
+	left: 127px;
+}
+
+
+.forkids {
+	position: absolute;
+	text-align: center;
+	top: 107px;
+	left: 123px;
+}
+
+
+.sale {
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;    
+}
+
+
+.for {
+	font-family: 'Lato', sans-serif;
+	font-size: 24px;
+	line-height: 29px;
+	color: #F16D7F;
+}
+
+.card_accesories {
+	margin-top: 30px;
+	background-image: url(img/accesories.jpg);
+	width: 1140px;
+	height: 180px;
+}
+
+
+.accesories_text {
+	text-align: center;
+	margin-top: 65px;
+}
+
+
+.items {
+	text-align: center;
+	margin-top: 96px;
+}
+
+
+.fetured {
+	font-size: 30px;
+	line-height: 36px;
+}
+
+
+.shopfor {
+	font-size: 14px;
+    line-height: 17px;
+    color: #9F9F9F;
+}
